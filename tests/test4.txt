@@ -1,0 +1,17 @@
+MODEL,Frigider,Samsung,Frost200,2021,1600,Nu
+MODEL,Televizor,LG,TV4K,2022,3000,139
+MODEL,MasinaSpalat,Arctic,A100,2020,1000,7
+MODEL,MasinaSpalat,Whirlpool,Supreme,2023,2000,9
+ANGAJAT,supervizor,Sefu,Vasile,1800101123450,01.01.2015,Bucuresti
+ANGAJAT,receptioner,Popa,Maria,2900505001128,15.05.2022,Bucuresti
+ANGAJAT,receptioner,Popa,Ion,1860611706793,13.02.2021,Targoviste
+ANGAJAT,tehnician,Enache,Dan,5021010123453,10.10.2020,Bucuresti,Frigider Samsung
+ANGAJAT,tehnician,Stan,George,1930101020031,20.01.2019,Bucuresti,MasinaSpalat Arctic,Televizor LG
+ANGAJAT,tehnician,Radu,Ionut,5000101123457,05.05.2023,Ploiesti,MasinaSpalat Whirlpool,Frigider Samsung
+ANGAJAT,tehnician,Stan,George,1860621700085,20.01.2020,Bucuresti,MasinaSpalat Arctic
+CERERE,Frigider,Samsung,Frost200,2021,1600,Nu,3,15.01.2025 09:00
+CERERE,Televizor,LG,TV4K,2022,3000,139,2,15.01.2025 09:10
+CERERE,MasinaSpalat,Arctic,A100,2020,1000,7,4,15.01.2025 09:15
+CERERE,Frigider,Samsung,Frost200,2021,1600,Nu,1,15.01.2025 09:30
+CERERE,MasinaSpalat,Whirlpool,Supreme,2023,2000,9,4,15.01.2025 10:04
+CERERE,Televizor,LG,TV4K,2022,3000,139,2,15.01.2025 10:10
